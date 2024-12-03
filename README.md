@@ -1,2 +1,2 @@
-# Microblog-
+# Microblog
 Microblog made with Flask
